@@ -1,4 +1,3 @@
 # educatedBytes GmbH
 
-EducatedBytes GmbH, based in Germany, develops and sells SAP ERP add-on solutions. The company was founded by Elena and Michael Keller with the aim of providing 
-the tools and methods they need or use while solving problems.
+educatedBytes GmbH, based in Germany, was founded by Elena and Michael Keller with the aim of providing tools and methods to solve problems in IT sector. The tools are primarily add-on solutions for SAP ERP software.
